@@ -1,0 +1,89 @@
+*{margin:0;padding: 0;}
+ .qq{
+ 	text-align: center;align-content: center;
+ 	background: white;
+ }
+
+
+
+ .input-group{
+ 	margin-top:3% ;
+ 	text-align: left;
+     border-radius: 20px;
+     border-bottom-left-radius:20px; 
+ }
+
+ .reg{
+padding-top: 1%;
+padding-bottom : 3%;
+ 	margin-top: 4%;
+ 	margin-bottom: 5%;
+ 	background-color:rgba(0,0,0,0.9);
+
+ 	border-radius: 10px;
+ }
+
+ .text{
+letter-spacing: 1px;
+font-size: 130%;
+font-family: 'Amaranth', sans-serif;
+color:orange;
+ }
+
+
+ input,option,select{
+ 	font-size: 150%;
+ 	font-weight: bold;
+ 	font-family: 'Quicksand', sans-serif;
+
+
+ }
+
+ legend{
+	font-size: 200%;
+ 	font-family: 'Quicksand', sans-serif;
+ 	font-weight: bold;
+ 	color:orange;
+ 	margin-bottom: 1%;
+ 	padding-bottom: 1%;
+ 	letter-spacing: 1px;
+ }
+
+ .btn{
+ 	border: 1px solid orange;
+ 	font-size: 160%;
+ 	color:orange;
+     margin-top: 20px;
+ }
+
+ .btn:hover{
+ 	background-color: orange;
+ 	color:white;
+
+
+ }
+
+
+.tex{
+
+	letter-spacing: 1px;
+font-size: 130%;
+font-family: 'Amaranth', sans-serif;
+color:	#ffcc00;
+margin-left: 30px;
+
+
+}
+
+#home{
+
+	border:none;
+	box-shadow: none;
+
+}
+
+#home:hover{
+			background-color: green;
+			 	color:white;
+	
+}
